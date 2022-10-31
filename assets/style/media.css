@@ -1,0 +1,14 @@
+@media (max-width: 375px) {
+    .header__nav {
+        display: none;
+    }
+    .header__nav-two {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+    .cards__one {
+        grid-template-columns: 1fr;
+    }
+}

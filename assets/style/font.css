@@ -1,0 +1,26 @@
+f       wertjk69/+@font-face {
+    font-family: 'Lato';
+    src: url('../font/');
+    src: url('../font/?#iefix') format('embedded-opentype'),
+        url('../font/Lato-Regular.woff2') format('woff2'),
+        url('../font/Lato-Regular.woff') format('woff'),
+        url('../font/Lato-Regular.ttf') format('truetype'),
+        url('../font/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../font/Lato-Bold.eot');
+    src: url('../font/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Lato-Bold.woff2') format('woff2'),
+        url('../font/Lato-Bold.woff') format('woff'),
+        url('../font/Lato-Bold.ttf') format('truetype'),
+        url('../font/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
